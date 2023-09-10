@@ -12,7 +12,7 @@ Drone courtesy of Shane Allan, MSc.
 
 🌍 After I graduated high school, I moved to **Zambia, Africa** for 18 months. It opened my eyes to the impact certain technologies have on our quality of life. 
 
-🧠 As a result of that experience, I've become dedicated to developing my abilities in artificial intelligence, automation, and computer vision because I believe in the potential that these technologies have in drastically increasing transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
+🧠 Now I'm dedicated to developing my abilities in artificial intelligence, automation, and computer vision because I believe in the potential that these technologies have in drastically increasing transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
 
 🤖 This past summer term, I was awarded the competitive NSERC Undergraduate Student Research Award to conduct research in the University of Alberta's Mechatronic Systems Lab.
 
