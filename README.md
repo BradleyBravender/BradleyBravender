@@ -14,6 +14,8 @@ Drone courtesy of Shane Allan, MSc.
 
 🧠 Now I'm dedicated to developing my abilities in artificial intelligence, automation, and computer vision because I believe in the potential that these technologies have in drastically increasing transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
 
+## Experience
+
 🤖 This past summer term, I was awarded the competitive NSERC Undergraduate Student Research Award to conduct research in the University of Alberta's Mechatronic Systems Lab.
 
 💻 During my research term, I furthered my proficiency in Python, learned the fundamentals of C++ and Robot Operating System (ROS), and worked with robotics hardware (things like Nvidia Jetsons, Velodyne VLP16 Lidars, Novatel GPS, etc) as I performed SLAM on a Clearpath Jackal platform, and shadowed masters students employing artificial intelligence and computer vision in UAVs.
