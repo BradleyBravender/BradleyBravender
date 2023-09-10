@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @BradleyBravender
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*Hi*
 
 <p float="left">
-  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/rviz_screenshot_2023_09_09-21_11_59.png?raw=true" width="30%" style="margin: 10px;" />
-  <img src="https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg" width="30%" style="margin: 10px;" />
+  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/_A654031.00_00_00_24.Still007.jpg?raw=true" width="45%" style="margin: 10px;" />
+  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/rviz_screenshot_2023_09_09-21_11_59.png?raw=true" width="45%" style="margin: 10px;" />
+  
 </p>
 
 <br>
