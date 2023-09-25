@@ -12,7 +12,7 @@ Drone courtesy of Shane Allan, MSc.
 
 🌍 After I graduated high school, I moved to **Zambia, Africa** for 18 months. It opened my eyes to the impact certain technologies have on our quality of life. 
 
-🧠 Now, I'm dedicated to developing my abilities in artificial intelligence, automation, and computer vision because I believe in the potential that these technologies have in drastically increasing transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
+🧠 Now, I'm dedicated to developing my abilities in artificial intelligence, automation, and computer vision to drastically increase transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
 
 ## Experience
 
@@ -20,9 +20,9 @@ Drone courtesy of Shane Allan, MSc.
 
 💻 During my research term, I furthered my proficiency in Python, learned the fundamentals of C++ and Robot Operating System (ROS), and worked with robotics hardware (peripherals like Nvidia Jetsons, Velodyne VLP16 Lidars, Novatel GPS, etc) to perform SLAM on a Clearpath Jackal platform. I also shadowed masters students employing artificial intelligence and computer vision in UAVs applications.
 
-🚁 I've recently joined the imaging team in the University of Alberta Aerial Robotics Group (UAARG) to improve the ground base recognition process. Stay tuned!
+🚁 I'm currently a member of the imaging team in the University of Alberta Aerial Robotics Group (UAARG) to improve the group's ground base recognition process. Stay tuned!
 
-👁️‍🗨️ I'm currently looking for a SWE internship for the May - August 2024 term in the field of self-driving or unmanned air vehicles. 👁️‍🗨️
+🚨 I'm looking for a SWE internship for the May - August 2024 term in the field of self-driving or unmanned air vehicles. 🔭
 
 ## Contact
 
