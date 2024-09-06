@@ -26,7 +26,16 @@ Drone courtesy of Shane Allan, MSc.
 
 ## Contact
 
-📱 I would love to get in touch! Reach out to me via 📧 [email](mailto:bsbraven@ualberta.ca) or [LinkedIn](https://www.linkedin.com/in/bradley-bravender-5246a9166/)!
+📱 I would love to get in touch!
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/BradleyBravender/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:bsbraven@ualberta.ca">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 <!---
 BradleyBravender/BradleyBravender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
