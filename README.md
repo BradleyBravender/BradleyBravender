@@ -8,26 +8,25 @@ Drone courtesy of Shane Allan, MSc.
 
 ## About Me
 
-🔬 In elementary school I would strip the plastic off of metal bread-bag twist ties to use as wires in circuits I'd make from salvaged circuit board components. Now, **I'm a computer engineering student** at the University of Alberta. 
+🔬 In elementary school, I would build circuits using salvaged components and bread-bag twist ties as my wires!
 
-🌍 After I graduated high school, I moved to **Zambia, Africa** for 18 months. It opened my eyes to the impact certain technologies have on our quality of life. 
+🌍 After high school, I volunteered in Zambia, where I saw firsthand how access to technology can significantly improve quality of life.
 
-🧠 Now, I'm dedicated to developing my abilities in artificial intelligence, automation, and computer vision to drastically increase transportation safety and efficiency, food production, and affordability of tools and resources provided at a lower cost through automation.
+🧠 I’m passionate about using autonomous vehicles, computer vision, and embedded systems to make a positive impact on the world.
 
 ## Experience
 
-🤖 This past summer term, I was awarded the competitive NSERC Undergraduate Student Research Award to conduct research in the University of Alberta's Mechatronic Systems Lab.
+🤖 In the spring of 2023, I was awarded the competitive NSERC Undergraduate Student Research Award to conduct robotics research at the University of Alberta's Mechatronic Systems Lab.
 
-💻 During my research term, I furthered my proficiency in Python, learned the fundamentals of C++ and Robot Operating System (ROS), and worked with robotics hardware (peripherals like Nvidia Jetsons, Velodyne VLP16 Lidars, Novatel GPS, etc) to perform SLAM on a Clearpath Jackal platform. I also shadowed masters students employing artificial intelligence and computer vision in UAVs applications.
+🚁 That fall, I co-founded Engineers Without Borders UAlberta and contributed to the University of Alberta Aerial Robotics Group (UAARG) as part of the computer vision team, improving drone object detection algorithms.
 
-🚁 I'm currently a member of the imaging team in the University of Alberta Aerial Robotics Group (UAARG) to improve the group's ground base recognition process. Stay tuned!
+🪖 During the summer of 2024, I worked as a Robotics Development Intern at Defense Research and Development Canada, helping to bring sight to an autonomous vehicle.
 
-🚨 I'm looking for a SWE internship for the May - August 2024 term in the field of self-driving or unmanned air vehicles. 🔭
+👀 And now? I’m currently looking for an exciting SWE or HWE internship for the January - April 2025 term! 🚨
 
 ## Contact
 
 📱 I would love to get in touch! Reach out to me via 📧 [email](mailto:bsbraven@ualberta.ca) or [LinkedIn](https://www.linkedin.com/in/bradley-bravender-5246a9166/)!
-
 
 <!---
 BradleyBravender/BradleyBravender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
