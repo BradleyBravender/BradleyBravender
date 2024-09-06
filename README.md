@@ -6,7 +6,7 @@
 </p>
 Drone courtesy of Shane Allan, MSc.
 
-## About Me
+## 📖 About Me
 
 🔬 In elementary school, I would build circuits using salvaged components and bread-bag twist ties as my wires!
 
@@ -14,7 +14,7 @@ Drone courtesy of Shane Allan, MSc.
 
 🧠 I’m passionate about using autonomous vehicles, computer vision, and embedded systems to make a positive impact on the world.
 
-## Experience
+## 🔥 Experience
 
 🤖 In the spring of 2023, I was awarded the competitive NSERC Undergraduate Student Research Award to conduct robotics research at the University of Alberta's Mechatronic Systems Lab.
 
@@ -24,9 +24,26 @@ Drone courtesy of Shane Allan, MSc.
 
 👀 And now? I’m currently looking for an exciting SWE or HWE internship for the January - April 2025 term! 🚨
 
-## Contact
+## 🧰 Tools
 
-📱 I would love to get in touch!
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</div>
+
+## 📲 Contact
+
+I would love to get in touch!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/BradleyBravender/">
