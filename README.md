@@ -1,9 +1,12 @@
 <h1 align="center"> 👋 Hi, I'm Bradley </h1>
 
-<p float="left">
-  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/_A654031.00_00_00_24.Still007.jpg?raw=true" width="45%" style="margin: 10px;" />
-  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/rviz_screenshot_2023_09_09-21_11_59.png?raw=true" width="45%" style="margin: 10px;" />
+
+<p align="middle">
+  <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/_A654031.00_00_00_24.Still007.jpg?raw=true" width="30%" style="margin: 10px;" />
+<!--   <img src="https://github.com/BradleyBravender/BradleyBravender/blob/main/rviz_screenshot_2023_09_09-21_11_59.png?raw=true" width="30%" style="margin: 10px;" /> -->
 </p>
+
+
 Drone courtesy of Shane Allan, MSc.
 
 ## 📖 About Me
