@@ -23,9 +23,11 @@ Drone courtesy of Shane Allan, MSc.
 
 🚁 That fall, I co-founded Engineers Without Borders UAlberta and contributed to the University of Alberta Aerial Robotics Group (UAARG) as part of the computer vision team, improving drone object detection algorithms.
 
-🪖 During the summer of 2024, I worked as a Robotics Development Intern at Defense Research and Development Canada, helping to bring sight to an autonomous vehicle.
+🪖 During the summer of 2024, I worked as a Robotics Development Intern at the Department of National Defense, helping to bring sight to an autonomous vehicle.
 
-👀 And now? I’m currently looking for an exciting SWE or HWE internship for the January - April 2025 term! 🚨
+🖱️ During the winter of 2025, I will be working at Microchip as a Design for Test Engineering Intern.
+
+👀 And now? I’m currently looking for an exciting SWE or HWE internship for the May - August 2025 term! 🚨
 
 ## 🧰 Tools
 
