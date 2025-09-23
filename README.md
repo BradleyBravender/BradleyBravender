@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Bradley </h1>
+<h1 align="center"> 👋 Hi, I'm Bradley! </h1>
 
 
 <p align="middle">
@@ -29,7 +29,7 @@ Drone courtesy of Shane Allan, MSc.
 
 🚘 A dream came true in the summer of 2025 when I got to work for Amtech Aeronautical to port their ROS1 stack to ROS2 on the largest autonomous vehicle I have every worked on! 
 
-👀 And now? I’m currently looking for an exciting SWE or HWE internship for the May - August 2026 term! 🚨
+👀 And now? I’m currently looking for an exciting SWE or HWE internship for the May - December 2026 terms! 🚨
 
 ## 🧰 Tools
 
