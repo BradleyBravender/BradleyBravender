@@ -22,9 +22,9 @@
 
 🪖 During the summer of 2024, I worked as a Robotics Development Intern at the Department of National Defense, helping to bring sight to an troop-suporting autonomous vehicle.
 
-🖱️ Then, during the winter of 2025, I developed R&D software at Microchip Technology as a Design for Test Engineering Intern.
+🖱️ In the winter of 2025, I developed R&D software at Microchip Technology as a Design for Test Engineering Intern.
 
-🚘 A dream came true in the summer of 2025 when I got to work for Amtech Aeronautical to port their ROS1 stack to ROS2 on the largest autonomous vehicle I have every worked on! 
+🚘 In the summer of 2025, I worked with Amtech Aeronautical to port their ROS1 stack to ROS2 on the largest autonomous vehicle I have every worked on! 
 
 👀 And now? I’m currently looking for an exciting SWE or HWE internship for the May - December 2026 terms! 🚨
 
