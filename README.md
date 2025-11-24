@@ -26,7 +26,7 @@
 
 🚘 In the summer of 2025, I worked with **Amtech Aeronautical** to port their ROS1 stack to ROS2 on the largest autonomous vehicle I have every worked on! 
 
-👀 And now? I’m just about to start as an embedded SWE intern for Garmin! 🚨
+👀 And now, I am an incoming embedded SWE intern for **Garmin**! 
 
 ## 🧰 Tools
 
